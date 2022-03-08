@@ -7,6 +7,7 @@
 - много Modern CSS.
 
 [Demo](https://beckyuldashev.github.io/dynamic-grid/)
+
 [Beck](https://vk.com/beckyuldashev)
 
 ![Resume cv](/preview.jpg)
